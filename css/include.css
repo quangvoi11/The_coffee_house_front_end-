@@ -1,0 +1,33 @@
+header {
+    margin: 10px auto;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+
+
+
+main {
+    min-height: 100vh;
+    margin: 10px auto;
+    border: 1px black solid;
+    border-radius: 10px;
+
+}
+
+footer {
+    margin-top: 0;
+    background-color: #333;
+    color: #ccc;
+    height: 50px;
+    font-size: 0.8em;
+    bottom: 0;
+    position: static;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 10px auto;
+    border: 1px black solid;
+    border-radius: 10px;
+
+}
